@@ -1,0 +1,12 @@
+﻿1 aram işlemi eklenecek
+2 üyelik işlemi eklenecek
+3 Identity kütüphanesi eklenecek
+4 yardım popup
+5 footer
+6 ayarlar
+7 çıkış yap
+8 giriş yap
+9 Yeni üye kaydı
+10 admin kaydı --> aspneet user 
+11 projenin publish edilmesi
+12 projenin canlıya taşınması
